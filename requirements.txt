@@ -1,5 +1,5 @@
 pandas==2.2.3
 plotly==5.24.1
-pycaret
+pycaret==3.3.2
 rdkit==2024.3.5
 streamlit==1.40.2
