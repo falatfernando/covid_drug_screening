@@ -1,5 +1,5 @@
-streamlit==1.25.0
-pandas==2.1.1
-rdkit-pypi==2023.9.1
-pycaret==3.0.0
-plotly==5.17.0
+pandas==2.2.3
+plotly==5.24.1
+pycaret==3.4.0
+rdkit==2024.3.5
+streamlit==1.40.2
